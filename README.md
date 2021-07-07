@@ -5,7 +5,7 @@ A new Flutter project.
 --------IMPORTANT NOTES!--------
 You can use the code for commercial or non commercial use.
 If you want to duplicate this application. Please change 50% of the content. I would love to see it
-Just follow @ianp.id on instagram.
+Don't forget to follow @ianp.id on instagram.
 --------IMPORTANT NOTES!--------
 
 
